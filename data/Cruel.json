@@ -11,5 +11,10 @@
     "verificationVid": "https://www.youtube.com/",
     "password": "Free To Copy",
     "records": [
+        {
+			"percent": "100",
+			"link": "https://www.youtube.com/live/8MU_EE6HVUg",
+			"user": "aelz"
+		}
     ]
 }

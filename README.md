@@ -1,3 +1,5 @@
 # Welcome to the Geometry Dash Tiny Pemonlist
 
-E
+This list is owned by cloudy45, site is here
+
+https://oneinsightcoder.github.io/TinyPemonSite/#/

@@ -5,6 +5,11 @@
         "link": "https://www.youtube.com/@Squarestheperson"
     },
     {
+        "role": "admin",
+        "name": "Synactive",
+        "link": "https://www.youtube.com/"
+    },
+    {
         "role": "helper",
         "name": "Minicube",
         "link": "https://www.youtube.com/"
@@ -12,6 +17,21 @@
     {
         "role": "dev",
         "name": "Zchar",
+        "link": "https://www.youtube.com/"
+    },
+    {
+        "role": "helper",
+        "name": "extatica",
+        "link": "https://www.youtube.com/"
+    },
+    {
+        "role": "helper",
+        "name": "Supzix",
+        "link": "https://www.youtube.com/"
+    },
+    {
+        "role": "helper",
+        "name": "2ItalianCats",
         "link": "https://www.youtube.com/"
     },
     {
@@ -25,7 +45,7 @@
         "link": "https://www.youtube.com/"
     },
     {
-        "role": "admin",
+        "role": "helper",
         "name": "tFluffy",
         "link": "https://www.youtube.com/"
     }

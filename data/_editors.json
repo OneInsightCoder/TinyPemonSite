@@ -5,17 +5,22 @@
         "link": "https://www.youtube.com/@Squarestheperson"
     },
     {
-        "role": "admin",
-        "name": "Nick",
-        "link": "https://www.youtube.com/@nickgiarovel"
+        "role": "helper",
+        "name": "Minicube",
+        "link": "https://www.youtube.com/"
     },
     {
-        "role": "admin",
+        "role": "dev",
+        "name": "Zchar",
+        "link": "https://www.youtube.com/"
+    },
+    {
+        "role": "helper",
         "name": "Kaj",
         "link": "https://www.youtube.com/"
     },
     {
-        "role": "admin",
+        "role": "helper",
         "name": "Vix",
         "link": "https://www.youtube.com/"
     },

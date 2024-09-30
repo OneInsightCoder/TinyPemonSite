@@ -13,7 +13,7 @@ export default {
         <main v-else class="page-roulette">
             <div class="sidebar">
                 <p class="type-label-md" style="color: #aaa">
-                    Shameless copy of the Extreme Demon Roulette by <a href="https://oneinsightcoder.github.io/TinyPemonSite/#/" target="_blank">SpaceUK</a>.
+                    cbf detected!! cbf is not allowed on tpl. pls uninstall the mod and try again <a href="https://oneinsightcoder.github.io/TinyPemonSite/#/" target="_blank">nullscapes</a>.
                 </p>
                 <form class="options">
                     <div class="check">

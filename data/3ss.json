@@ -10,5 +10,10 @@
     "unrated": true,
     "verificationVid": "https://www.youtube.com/watch?v=IEx7mEvv59U",
     "password": "free to copy",
-    "records": []
+    "records": [
+                {
+			"percent": "100",
+			"link": "https://youtu.be/qFHziXPZduU",
+			"user": "adanz9"
+		}]
 }
